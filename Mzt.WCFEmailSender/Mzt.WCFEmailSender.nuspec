@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>WCFEmailSender</id>
+    <version>122</version>
+    <authors>Mouzenidis</authors>
+    <description>Send email using WCF-service</description>
+    <language>en-US</language>
+    <licenseUrl>http://mzt.ru/</licenseUrl>
+    <projectUrl>http://mzt.ru/</projectUrl>
+    <tags>WCFEmailSender</tags>
+  </metadata>
+</package>

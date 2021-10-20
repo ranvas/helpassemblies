@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Mzt.CommonExcel</id>
+    <version>110</version>
+    <authors>Mouzenidis</authors>
+    <description>Read/Write excel</description>
+    <language>en-US</language>
+    <licenseUrl>http://mzt.ru/</licenseUrl>
+    <projectUrl>http://mzt.ru/</projectUrl>
+    <tags>Mzt.CommonExcel</tags>
+  </metadata>
+</package>

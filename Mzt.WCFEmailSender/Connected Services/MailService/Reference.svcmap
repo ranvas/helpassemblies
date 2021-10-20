@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="47d9dff0-bc00-4d2a-be40-26edd6ba9d60" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:64506/MailService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MailService4.xsd" MetadataType="Schema" ID="4892c9b7-cab5-44f5-b9c7-2b98efae0bdd" SourceId="1" SourceUrl="http://localhost:64506/MailService.svc?xsd=xsd1" />
+    <MetadataFile FileName="MailService41.xsd" MetadataType="Schema" ID="e4254034-e89e-4e6c-9cbb-7e8dd61741ab" SourceId="1" SourceUrl="http://localhost:64506/MailService.svc?xsd=xsd0" />
+    <MetadataFile FileName="MailService1.disco" MetadataType="Disco" ID="eba7c031-2310-4439-95f4-854ddffc8d23" SourceId="1" SourceUrl="http://localhost:64506/MailService.svc?disco" />
+    <MetadataFile FileName="MailService42.xsd" MetadataType="Schema" ID="fa44836a-6d1e-466c-ad6e-cf7e9e357320" SourceId="1" SourceUrl="http://localhost:64506/MailService.svc?xsd=xsd3" />
+    <MetadataFile FileName="MailService1.wsdl" MetadataType="Wsdl" ID="1a05713b-7f1e-4aa3-a0eb-9c4e75e6c516" SourceId="1" SourceUrl="http://localhost:64506/MailService.svc?wsdl" />
+    <MetadataFile FileName="MailService43.xsd" MetadataType="Schema" ID="1774fe16-a4f5-4151-9f68-a1d41d6fbac2" SourceId="1" SourceUrl="http://localhost:64506/MailService.svc?xsd=xsd2" />
+    <MetadataFile FileName="MailService44.xsd" MetadataType="Schema" ID="fd265534-aae4-4df4-84ec-25cc43e386c3" SourceId="1" SourceUrl="http://localhost:64506/MailService.svc?xsd=xsd4" />
+    <MetadataFile FileName="MailService45.xsd" MetadataType="Schema" ID="f2423f29-7b95-4fe3-ad19-efe18353278a" SourceId="1" SourceUrl="http://localhost:64506/MailService.svc?xsd=xsd5" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

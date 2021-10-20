@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Mzt.MTDATA.Utils</id>
+    <version>6</version>
+    <authors>Mouzenidis</authors>
+    <description>Some extension features from project MTDATA</description>
+    <language>en-US</language>
+    <licenseUrl>http://mzt.ru/</licenseUrl>
+    <projectUrl>http://mzt.ru/</projectUrl>
+    <tags>Mzt.MTDATA.Utils</tags>
+  </metadata>
+</package>

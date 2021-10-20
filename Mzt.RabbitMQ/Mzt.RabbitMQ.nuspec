@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Mzt.RabbitMQ</id>
+    <version>12</version>
+    <authors>Mouzenidis</authors>
+    <description>Package for pushing items to queue using library RabbitMQ.</description>
+    <language>en-US</language>
+    <licenseUrl>http://mzt.ru/</licenseUrl>
+    <projectUrl>http://mzt.ru/</projectUrl>
+    <tags>Mzt.RabbitMQ</tags>
+  </metadata>
+</package>

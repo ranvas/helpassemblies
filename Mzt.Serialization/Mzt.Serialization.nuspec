@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Mzt.Serialization</id>
+    <version>321</version>
+    <authors>Mouzenidis</authors>
+    <description>Library for serialize and deserialize objects with NewtonSoft</description>
+    <language>en-US</language>
+    <licenseUrl>http://mzt.ru/</licenseUrl>
+    <projectUrl>http://mzt.ru/</projectUrl>
+    <tags>Serialization</tags>
+  </metadata>
+</package>

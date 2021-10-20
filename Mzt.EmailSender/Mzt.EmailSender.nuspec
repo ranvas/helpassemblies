@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Mzt.EmailSender</id>
+    <version>82</version>
+    <authors>Mouzenidis</authors>
+    <description>Base Email Smtp Sender</description>
+    <language>en-US</language>
+    <licenseUrl>http://mzt.ru/</licenseUrl>
+    <projectUrl>http://mzt.ru/</projectUrl>
+    <tags>Mzt.EmailSender</tags>
+  </metadata>
+</package>

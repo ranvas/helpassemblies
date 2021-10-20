@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>Mzt.CommonFile</id>
+    <version>84</version>
+    <authors>Mouzenidis</authors>
+    <description>Base operations with files</description>
+    <language>en-US</language>
+    <licenseUrl>http://mzt.ru/</licenseUrl>
+    <projectUrl>http://mzt.ru/</projectUrl>
+    <tags>Mzt.CommonFile</tags>
+  </metadata>
+</package>
